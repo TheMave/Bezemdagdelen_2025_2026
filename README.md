@@ -18,5 +18,6 @@ afspraak met me inplannen.
 - Donderdag 13 november, 13:00, PL101-0.205 (padualaan)
 - Donderdag 20 november, 13:00, NP21-C2.55 (Nieuwe Poort, **AMERSFOORT**, tegenover het station, 
                                             zie: [https://www.hu.nl/de-nieuwe-poort-21-amersfoort](https://www.hu.nl/de-nieuwe-poort-21-amersfoort) )
+- Donderdag 27 november, 13:00, HL7-1.125
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
