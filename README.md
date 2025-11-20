@@ -19,5 +19,20 @@ afspraak met me inplannen.
 - Donderdag 20 november, 13:00, NP21-C2.55 (Nieuwe Poort, **AMERSFOORT**, tegenover het station, 
                                             zie: [https://www.hu.nl/de-nieuwe-poort-21-amersfoort](https://www.hu.nl/de-nieuwe-poort-21-amersfoort) )
 - Donderdag 27 november, 13:00, HL7-1.125
+  Begint met stukje ALDS college: **Big Oh, Python valkuilen, Recursie en Memoissatie**
+- Donderdag 4 december, 13:00, plaats komt hier.
+  Begint met stukje ALDS college: **Sorteren**.
+- Donderdag 11 december, 13:00, plaats komt hier.
+  Begint met stukje ALDS college: **(priority-)Queue**
+- Donderdag 18 december, 13:00, plaats komt hier.
+  Begint met stukje ALDS college: **Uitleg en tips bij de Game Tree opdrachten 1 en 2**
+- Donderdag 8 januari, 13:00, plaats komt hier.
+  Begint met stukje ALDS college: **Uitleg en tips bij Game Tree opdracht 3**
+- Donderdag 15 januari, 13:00, plaats komt hier.
+  Begint met stukje ALDS college: **Uitleg en tips bij opdracht Dijkstra**
+- Donderdag 22 januari, 13:00, plaats komt hier.
+  Begint met stukje ALDS college: **Uitleg en tips bij opdracht Gomoku**
+- (ALDS **toets** is op maandag 26 januari, 12:00 uur)
+- Donderdag 29 januari, plaats komt hier.
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
