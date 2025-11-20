@@ -14,6 +14,15 @@ Voor aftekenen van (een substantiële hoeveelheid) ALDS opdrachten en OOPC opdra
 is op de bezemmiddag meestal geen/niet genoeg tijd. Daarvoor kun je het best via email een aparte
 afspraak met me inplannen.
 
+## Tips
+-	Tip 1 - **Check** het **tijdig**: soms is het vlakbij Amersfoort CS.
+-	Tip 2 - In november en december beginnen de dagdelen met een uur ALDS college dat je **voorbereid
+op een ALDS opdracht** (en uiteindelijk ook het tentamen) (zie onderstaand rooster voor de topics).
+Als je aanhaakt bij de colleges en aansluitend de bijbehorende opdracht maakt, kun je het vak 
+met **minimale inspanning** afronden.
+-	Tip 3 -  Je kunt **nu** ook al (begeleid) werken aan vakken die pas in blok C en D in Osiris ingevuld kunnen worden,
+zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
+
 ## De bezemdagdelen
 - Donderdag 13 november, 13:00, PL101-0.205 (padualaan)
 - Donderdag 20 november, 13:00, NP21-C2.55 (Nieuwe Poort, **AMERSFOORT**, tegenover het station, 
