@@ -29,7 +29,7 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
                                             zie: [https://www.hu.nl/de-nieuwe-poort-21-amersfoort](https://www.hu.nl/de-nieuwe-poort-21-amersfoort) )
 - Donderdag 27 november, 13:00, HL7-1.125.
   Begint met stukje ALDS college: **Big Oh, Python valkuilen, Recursie en Memoissatie**
-- Donderdag 4 december, 13:00, plaats komt hier.
+- Donderdag 4 december, 13:00, BL101-2.024 (Bolognalaan 101).
   Begint met stukje ALDS college: **Sorteren**.
 - Donderdag 11 december, 13:00, plaats komt hier.
   Begint met stukje ALDS college: **(priority-)Queue**
