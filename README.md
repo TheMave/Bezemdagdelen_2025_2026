@@ -31,7 +31,7 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
   Begint met stukje ALDS college: **Big Oh, Python valkuilen, Recursie en Memoissatie**
 - Donderdag 4 december, 13:00, BL101-2.024 (Bolognalaan 101).
   Begint met stukje ALDS college: **Sorteren**.
-- Donderdag 11 december, 13:00, plaats komt hier.
+- Donderdag 11 december, 13:00, HL7-0.060.
   Begint met stukje ALDS college: **(priority-)Queue**
 - Donderdag 18 december, 13:00, plaats komt hier.
   Begint met stukje ALDS college: **Uitleg en tips bij de Game Tree opdrachten 1 en 2**
