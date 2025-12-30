@@ -38,9 +38,9 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Donderdag 8 januari, 9:00, HL15-5.090 : de ochtend alleen voor tentamenoefenen CSM.
 - Donderdag 8 januari, 13:00, HL15-6.032 : de middag voor overige bezem.
   Begint met stukje ALDS college: **Uitleg en tips bij Game Tree opdracht 3**
-- Donderdag 15 januari, 13:00, plaats komt hier.
+- Donderdag 15 januari, 13:00, HL15-6.052.
   Begint met stukje ALDS college: **Uitleg en tips bij opdracht Dijkstra**
-- Donderdag 22 januari, 13:00, plaats komt hier.
+- Donderdag 22 januari, 13:00, HL15-6.054.
   Begint met stukje ALDS college: **Uitleg en tips bij opdracht Gomoku**
 - (ALDS **toets** is op maandag 26 januari, 12:00 uur)
 - Donderdag 29 januari, plaats komt hier.
