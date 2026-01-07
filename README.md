@@ -35,7 +35,6 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
   Begint met stukje ALDS college: **(priority-)Queue**
 - Donderdag 18 december, 13:00, HL15-6.054. (vandaag eindigt het om 15:00 ivm kerst-event)
   Begint met stukje ALDS college: **Uitleg en tips bij de Game Tree opdrachten 1 en 2**
-- Donderdag 8 januari, 9:00, gebouwen gesloten, Teams meeting : de ochtend alleen voor tentamenoefenen CSM.
 - Donderdag 8 januari, 13:00, gebouwen gesloten, Teams meeting : de middag voor overige bezem.
   Begint met stukje ALDS college: **Uitleg en tips bij Game Tree opdracht 3**
 - Donderdag 15 januari, 13:00, HL15-6.052.
