@@ -42,6 +42,7 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Donderdag 22 januari, 13:00, HL15-6.054.
   Begint met stukje ALDS college: **Uitleg en tips bij opdracht Gomoku**
 - (ALDS **toets** is op maandag 26 januari, 12:00 uur)
-- Donderdag 29 januari, plaats komt hier.
+- Donderdag 29 januari, 13:00, HL15-6.011.
+- Donderdag 5 februari, 13:00, HL15-6.034.
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
