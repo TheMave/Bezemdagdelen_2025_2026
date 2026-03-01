@@ -47,5 +47,7 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Donderdag 12 februari, 13:00, HL15-4.016.
  (19 feb vervalt ivm vakantie-ik zit dan in het buitenland)
 - Donderdag 26 februari, 13:00, HL15-4.016.
+- Donderdag 5 maart, 13:00, HL15-7.026.
+- Donderdag 12 maart, 13:00, HL15-7.044.
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
