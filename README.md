@@ -49,5 +49,7 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Donderdag 26 februari, 13:00, HL15-4.016.
 - Donderdag 5 maart, 13:00, HL15-7.026.
 - Donderdag 12 maart, 13:00, HL15-7.044.
+- Donderdag 19 maart, 13:00, HL**7**-3.128
+- Donderdag 26 maart, 13:00, lokaal komt nog. Vandaag speciale aandacht voor: **Oefenen voor ALDS tentamen**.
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
