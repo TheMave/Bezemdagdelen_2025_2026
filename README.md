@@ -54,6 +54,7 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Donderdag 2 april, 13:00, HL**7**-0.121 speciale aandacht voor: **Oefenen voor ALDS tentamen**.
 - Donderdag 9 april, 13:00, HL15-6.054. (laatste week blok C)
 - Donderdag 16 april, 13:00, HL15-5.080. (eerste week blok D). Te beginnen vandaag elke week wat les **MRB**.
-- Donderdag 23 april, 13:00, HL15-7.044. Eerste uur les **MRB**. 
+- Donderdag 23 april, 13:00, HL15-7.044. Eerste uur les **MRB**.
+- Donderdag 30 april - vervalt wegens voorjaarsvakantie.
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
