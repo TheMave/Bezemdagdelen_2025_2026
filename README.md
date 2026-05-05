@@ -56,5 +56,7 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Donderdag 16 april, 13:00, HL15-5.080. (eerste week blok D). Te beginnen vandaag elke week wat les **MRB**.
 - Donderdag 23 april, 13:00, HL15-7.044. Eerste uur les **MRB**.
 - Donderdag 30 april - vervalt wegens voorjaarsvakantie.
+- Donderdag 7 mei - 13:00, HL15-7.026. Eerste uur les **MRB**.
+- Donderdag 14 mei - vervalt wegens hemelvaart.
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
