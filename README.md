@@ -60,5 +60,6 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Donderdag 14 mei - vervalt wegens hemelvaart.
 - Donderdag 21 mei - 13:00, HL15-3.068. Eerste uur les **MRB**.
 - Donderdag 28 mei - 13:00, HL15-3.081. Eerste uur les **MRB**.
+- Donderdag 4 juni - 13:00, HL15-7.044. Eerste uur les **MRB**.
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
