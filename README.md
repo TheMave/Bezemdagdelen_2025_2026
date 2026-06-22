@@ -63,5 +63,8 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Donderdag 4 juni - 13:00, HL15-7.044. Eerste uur les **MRB**.
 - Donderdag 11 juni - 15:30-16:00 (evt wat uitloop): korte gelegenheid tot vragen voor/rond TI-lab.
 - Donderdag 18 juni - 13:00, PL101-1.426
+- Donderdag 25 juni - 13:00, HL15-3.081
+- Donderdag 2 juli - 13:00, HL15-3.081
+- Donderdag 9 juli - 13:00, HL15-3.079
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
