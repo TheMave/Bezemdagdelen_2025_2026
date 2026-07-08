@@ -67,5 +67,8 @@ zoals **Computer Vision**. Zo kun je je werkbelasting wellicht beter verdelen.
 - Donderdag 2 juli - 13:00, HL15-3.081
 - Donderdag 9 juli - 13:00, HL15-3.079 - Deze middag gebruik ik ook voor enkele S3-assessments.
                                          Er is ook wat ruimte voor wat bezem-support tussendoor.
+- Donderdag 16 juli - 14:30, TI-Lab - Ik kom rond deze tijd even kijken of er nog studenten in het
+                                      TI-Lab zitten met behoefte aan bezem-support.
+                                      Zo ja, dan blijf ik tot de betreffende studenten geholpen zijn.
 - Nieuwe tijden en momenten zullen op deze plek worden toegevoegd,
   zodra het lokaal gereserveerd kan worden.
